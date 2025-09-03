@@ -1,4 +1,5 @@
-<img src="./assets/Ruchita Agrahari.gif" alt="" />
+<img src="./assets/Ruchita Agrahari.gif" alt="" >
+
 # Hi, I'm Ruchita Agrahari 👋  
 ### 🚀 Full-Stack Developer | MERN Stack | Currently Learning TypeScript  
 
