@@ -13,17 +13,22 @@
 
 ### 🌐 Frontend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql" />
+</p>
+
+### ☁️ DevOps / Cloud  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify" />
 </p>
 
 ### 🧰 Tools & Others  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,yarn,webpack" />
 </p>
 
 ---
