@@ -1,3 +1,4 @@
+<img src="./assets/Ruchita Agrahari.gif" alt="" />
 # Hi, I'm Ruchita Agrahari 👋  
 ### 🚀 Full-Stack Developer | MERN Stack | Currently Learning TypeScript  
 
@@ -23,7 +24,7 @@
 
 ### ☁️ DevOps / Cloud  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,heroku" />
 </p>
 
 ### 🧰 Tools & Others  
